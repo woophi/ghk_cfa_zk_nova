@@ -1,11 +1,11 @@
 {
-  "name": "ghk_zk_nova",
+  "name": "ghk_cfa_zk_nova",
   "private": true,
   "version": "0.0.0",
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "tsc && vite build --base=/ghk_zk_nova/",
+    "build": "tsc && vite build --base=/ghk_cfa_zk_nova/",
     "lint": "eslint . --ext ts,tsx --report-unused-disable-directives --max-warnings 0",
     "preview": "vite preview"
   },
